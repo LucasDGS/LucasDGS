@@ -52,4 +52,4 @@ I am a backend developer, with a passion for Golang and practicing Clean Code. I
 
 ## 📫 Contact
 
- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santos-48b3b3223/)
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasdgs/)
