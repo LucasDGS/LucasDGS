@@ -48,7 +48,7 @@ I am a backend developer, with a passion for Golang and practicing Clean Code. I
 
 ### GitHub Stats
 
-[![Estatísticas do GitHub de Lucas](https://github-readme-stats-brfn8zaw8.vercel.app/api?username=LucasDGS&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub de Lucas](https://github-readme-stats-zftajbb6a.vercel.app/api?username=LucasDGS&show_icons=true&include_all_commits=true&theme=default&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contact
 
