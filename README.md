@@ -42,17 +42,14 @@ I am a backend developer, with a passion for Golang and practicing Clean Code. I
   ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 
-### GitHub Stats
-
-[![Estatísticas do GitHub de Lucas](https://github-readme-stats-brfn8zaw8.vercel.app/api?username=LucasDGS&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📊 WakaTime Stats
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LucasDGS&layout=compact)](https://wakatime.com/@LucasDGS)
 
+### GitHub Stats
+
+[![Estatísticas do GitHub de Lucas](https://github-readme-stats-brfn8zaw8.vercel.app/api?username=LucasDGS&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📫 Contact
 
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santos-48b3b3223/)
-
-
----
