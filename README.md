@@ -1,6 +1,6 @@
 
 # Hello! I'm Lucas Santos 👋
-I am a backend developer, with a passion for Golang and practicing Clean Code. I have extensive experience in crypto-asset projects, significantly contributing to the functionality, security, and scalability of the platforms.
+I am a backend developer, with a passion for Golang. I have extensive experience in crypto-asset projects, significantly contributing to the functionality, security, and scalability of the platforms.
 
 ## 🛠️Technologies and Tools
 
